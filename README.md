@@ -1,5 +1,4 @@
-# Zedeyx
-### AI & Next.js Developer
+## Zedeyx
 
 ---
 
