@@ -1,4 +1,4 @@
-# Abdul Mukit  
+# Zedeyx
 ### AI & Next.js Developer
 
 ---
@@ -43,4 +43,4 @@ A tech blog & project hub focused on AI, web development, and SEO best practices
 
 ---
 
-> *“Simplicity is the ultimate sophistication.”* – Abdul Mukit
+> *“Simplicity is the ultimate sophistication.”* – Zedeyx
