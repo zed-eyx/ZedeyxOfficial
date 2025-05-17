@@ -1,55 +1,46 @@
-# zedeyx
-
-> `// low signal. high output.`  
-> `// building in silence. breaking the pattern.`
+# Abdul Mukit  
+### AI & Next.js Developer
 
 ---
 
-## /identity  
-`name:` zedeyx  
-`type:` system-oriented builder  
-`mode:` stealth execution  
-`origin:` somewhere between logic and obsession  
+> *"Crafting seamless experiences powered by AI and modern web technology."*  
 
 ---
 
-## /stack  
-- [x] human-level AI systems  
-- [x] minimalist frontend architectures  
-- [x] infrastructure with zero compromise  
-- [x] signal-to-noise ratio: > 99%  
-- [x] tactical product engineering  
-- [ ] fame  
-- [ ] unnecessary features  
+## About Me
+
+I'm a developer focused on building scalable, high-performance web applications  
+using **Next.js** and integrating cutting-edge **AI technologies** to solve real problems.  
 
 ---
 
-## /projects  
-`teclus.com` — software with intent  
-`techoua.com` — tech and theory in motion  
-`pequela` — quiet intelligence, in training
+## Tech Stack
+
+**Frontend**  
+Next.js · React · TypeScript · Tailwind CSS · SSR/SSG · SEO Optimization  
+
+**AI & Machine Learning**  
+TensorFlow · PyTorch · OpenAI API · NLP · Data Visualization  
+
+**Backend & APIs**  
+Node.js · Express · REST · GraphQL · MongoDB · PostgreSQL  
+
+**Tools & Platforms**  
+Git · Docker · Vercel · VS Code · Postman · AWS · Firebase · CI/CD  
 
 ---
 
-## /status  
-> "No roadmap.  
-> Just directions written in silence."
+## Portfolio
 
-Currently in deep build mode.  
-If it feels like a glitch in the system—it’s probably a signal.
+[techoua.com](https://techoua.com)  
+A tech blog & project hub focused on AI, web development, and SEO best practices.
 
 ---
 
-## /presence  
-`X:` [@zedeyx](https://x.com/zedeyx)  
-`git:` [github.com/zedeyx](https://github.com/zedeyx)  
+## Contact
 
-> logs aren't public.  
-> traces are.
+[LinkedIn](https://linkedin.com/in/your-linkedin) · [Twitter](https://twitter.com/your-twitter) · [Email](mailto:your-email@example.com)
 
 ---
 
-## /signature  
-> built by burden.  
-> driven by purpose.  
-> designed for silence.
+> *“Simplicity is the ultimate sophistication.”* – Abdul Mukit
