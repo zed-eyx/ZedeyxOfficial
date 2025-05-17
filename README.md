@@ -1,16 +1,55 @@
-## Hi there 👋
+# zedeyx
 
-<!--
-**ZedeyxOfficial/ZedeyxOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> `// low signal. high output.`  
+> `// building in silence. breaking the pattern.`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## /identity  
+`name:` zedeyx  
+`type:` system-oriented builder  
+`mode:` stealth execution  
+`origin:` somewhere between logic and obsession  
+
+---
+
+## /stack  
+- [x] human-level AI systems  
+- [x] minimalist frontend architectures  
+- [x] infrastructure with zero compromise  
+- [x] signal-to-noise ratio: > 99%  
+- [x] tactical product engineering  
+- [ ] fame  
+- [ ] unnecessary features  
+
+---
+
+## /projects  
+`teclus.com` — software with intent  
+`techoua.com` — tech and theory in motion  
+`pequela` — quiet intelligence, in training
+
+---
+
+## /status  
+> "No roadmap.  
+> Just directions written in silence."
+
+Currently in deep build mode.  
+If it feels like a glitch in the system—it’s probably a signal.
+
+---
+
+## /presence  
+`X:` [@zedeyx](https://x.com/zedeyx)  
+`git:` [github.com/zedeyx](https://github.com/zedeyx)  
+
+> logs aren't public.  
+> traces are.
+
+---
+
+## /signature  
+> built by burden.  
+> driven by purpose.  
+> designed for silence.
