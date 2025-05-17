@@ -1,4 +1,4 @@
-## Zedeyx
+# Zedeyx ✨
 
 ---
 
@@ -28,11 +28,22 @@ Node.js · Express · REST · GraphQL · MongoDB · PostgreSQL
 Git · Docker · Vercel · VS Code · Postman · AWS · Firebase · CI/CD  
 
 ---
-
 ## Portfolio
 
-[techoua.com](https://techoua.com)  
-A tech blog & project hub focused on AI, web development, and SEO best practices.
+- [Techoua](https://techoua.com)  
+  A tech blog & project hub focused on AI, web development, and SEO best practices.
+
+- [AI Chatbot](https://github.com/yourusername/ai-chatbot)  
+  Built a Next.js-powered chatbot leveraging OpenAI API for natural conversations.
+
+- [Image Classifier](https://github.com/yourusername/image-classifier)  
+  An AI project using TensorFlow to classify images with high accuracy.
+
+- [Dev Dashboard](https://github.com/yourusername/dev-dashboard)  
+  A real-time analytics dashboard built with React, Node.js, and MongoDB.
+
+- [Portfolio Website](https://yourportfolio.com)  
+  Personal portfolio site showcasing projects, blogs, and contact info.
 
 ---
 
