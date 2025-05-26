@@ -6,7 +6,7 @@ I don’t share much, but if you’re reading this, thanks for passing by.
 
 ## What I Work With
 
-- JavaScript (React, Next.js)
+- JavaScript (React, Next.js, Node Js)
 - Python (Flask, FastAPI, ML basics)
 - HTML/CSS (Tailwind, responsive design)
 - REST APIs and backend logic
@@ -19,7 +19,7 @@ I believe in learning by building. No shortcuts, no hype — just code, curiosit
 
 ## Projects
 
-- Building and maintaining [Techoua.com](https://techoua.com) — a knowledge-first tech platform focused on development and digital innovation
+- Building and maintaining [Techoua.com](https://techoua.com) — Open source AI intrigrated text humanizer 
 - Created lightweight tools and apps to automate workflows and solve real-life problems
 - Currently exploring AI development with Python and TensorFlow
 
