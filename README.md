@@ -53,8 +53,9 @@ To craft practical and meaningful digital experiences that create real-world val
 ### 📊 GitHub Activity
 ![ZedeyxOfficial github-stats](https://stats.dooboo.io/api/github-stats?login=ZedeyxOfficial)
 [![Zedeyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZedeyxOfficial&bg_color=ffffff&color=000000&line=8a24ff&point=24292e&area=true&hide_border=true)](#)
-![ZedeyxOfficial github-trophies](https://stats.dooboo.io/api/github-trophies?login=ZedeyxOfficial)
-
+<div align="center">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=ZedeyxOfficial" alt="ZedeyxOfficial github-trophies" />
+</div>
 
 ---
 
