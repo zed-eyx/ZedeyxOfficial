@@ -1,30 +1,20 @@
-<!-- About Me Section -->
-<div align="center">
+### Abdul Mukit — Developer • Blogger • Cyber Learner
 
-<details>
-  <summary><strong>✨ About Me — Click to Expand!</strong></summary>
-  <br>
+- **Age:** 16  
+- **Location:** Narayanganj, Dhaka, Bangladesh  
+- **Class:** 10 (SSC 2025 Candidate)  
+- **Focus Areas:** Web Development, Cybersecurity, Blogging  
+- **Freelancing Skills:** WordPress, SEO, Copywriting, Blogging  
+- **Core Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Git  
+- **Mindset:** CEO-Visionary | Inventor | Hacker | Self-Learner  
+- **Languages:** English, Bangla  
+- **Fun Fact:** I prefer green tea over coffee and learn better in silence.
 
-  <p><strong>Hey there, I’m <span style="color:#007acc">Abdul Mukit</span> — a passionate self-taught developer, SEO wizard, and lifelong learner from Bangladesh!</strong></p>
+**My Mission:**  
+To build practical, meaningful, and long-lasting digital solutions that make a real impact.
 
-  <ul align="left">
-    <li><strong>Age:</strong> 16</li>
-    <li><strong>Class:</strong> 10 (SSC 2025 Candidate)</li>
-    <li><strong>Current Focus:</strong> Web Development, Blogging, Cybersecurity</li>
-    <li><strong>Freelance Skills:</strong> WordPress, SEO, Copywriting, Blogging</li>
-    <li><strong>Other Skills:</strong> Frontend Dev, Git/GitHub, Python, App Dev</li>
-    <li><strong>Mindset:</strong> CEO-Visionary | Inventor | Hacker | Practical Learner</li>
-    <li><strong>Languages:</strong> English, Bangla</li>
-  </ul>
-
-  <p><strong>My Mission:</strong> To build innovative solutions, create meaningful content, and make an impact that outlives trends.</p>
-
-  <p><strong>Fun Fact:</strong> I drink green tea while coding like it’s a ritual — balance between Zen & JavaScript.</p>
-
-  <p><strong>Let’s Connect & Collaborate!</strong> I’m always open to new ideas and collabs that help us grow together.</p>
-
-</details>
-
+**Personal Philosophy:**  
+> “I don’t chase certificates. I chase mastery.”
 </div>
 
 
