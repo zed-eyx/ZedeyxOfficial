@@ -11,12 +11,10 @@
 - **Age:** Undefined
 - **Location:** Earth 
 - **Class:** Studied Enough
-- **Core Focus:** Web Development • Cybersecurity • Blogging
-- **Freelancing Stack:** WordPress • SEO • Copywriting  
-- **Mindset:** CEO Visionary | Inventor | Hacker | Self-Learner  
+- **Core Focus:** Web Development
 - **Languages:** English, Bangla  
 - **Fun Fact:** I learn better in silence and prefer green tea over coffee.
-
+- 
 ---
 
 ### 🎯 Mission
@@ -64,10 +62,10 @@ To craft practical and meaningful digital experiences that create real-world val
 
 - **Blog:** [techoua.com](https://techoua.com)  
 - **GitHub:** [ZedeyxOfficial](https://github.com/ZedeyxOfficial)  
-- **Email:** `YourEmail@example.com`
+- **Email:** `zedeyx@gmail.com`
 
 ---
 
 <p align="center">
-  Crafted with passion & precision by <strong>Abdul Mukit</strong>
+  Build with passion & precision by <strong>Zedeyx</strong>
 </p>
