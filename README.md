@@ -60,7 +60,7 @@ To craft practical and meaningful digital experiences that create real-world val
 
 ### 🌐 Connect With Me
 
-- **Blog:** [techoua.com](https://techoua.com)  
+- **Blog:** [zedeyx.ct.ws](https://techoua.com)  
 - **GitHub:** [ZedeyxOfficial](https://github.com/ZedeyxOfficial)  
 - **Email:** `zedeyx@gmail.com`
 
