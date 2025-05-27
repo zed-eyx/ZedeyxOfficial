@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Abdul Mukit</h1>
+<h1 align="center">Hi, I'm Zedyex</h1>
 <p align="center">
-  <strong>Developer • Blogger • Cyber Learner • CEO Mindset</strong><br>
+  <strong>Developer • Blogger • Cyber Learner</strong><br>
   Passionate about building secure, impactful, and scalable digital products.
 </p>
 
@@ -8,12 +8,11 @@
 
 ### 👨‍💻 About Me
 
-- **Age:** 16  
-- **Location:** Narayanganj, Dhaka, Bangladesh  
-- **Class:** 10 (SSC 2025 Candidate)  
-- **Core Focus:** Web Development • Cybersecurity • Blogging  
+- **Age:** Undefined
+- **Location:** Earth 
+- **Class:** Studied Enough
+- **Core Focus:** Web Development • Cybersecurity • Blogging
 - **Freelancing Stack:** WordPress • SEO • Copywriting  
-- **Tech Arsenal:** HTML, CSS, JavaScript, React, Node.js, Git  
 - **Mindset:** CEO Visionary | Inventor | Hacker | Self-Learner  
 - **Languages:** English, Bangla  
 - **Fun Fact:** I learn better in silence and prefer green tea over coffee.
@@ -24,7 +23,7 @@
 
 To craft practical and meaningful digital experiences that create real-world value.
 
-> _"I don’t chase certificates. I chase mastery."_
+> "I don’t chase certificates. I chase mastery."
 
 ---
 
@@ -55,7 +54,7 @@ To craft practical and meaningful digital experiences that create real-world val
 
 ### 📊 GitHub Activity
 ![ZedeyxOfficial github-stats](https://stats.dooboo.io/api/github-stats?login=ZedeyxOfficial)
-
+![ZedeyxOfficial github-trophies](https://stats.dooboo.io/api/github-trophies?login=ZedeyxOfficial)
 [![Zedeyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZedeyxOfficial&bg_color=ffffff&color=000000&line=8a24ff&point=24292e&area=true&hide_border=true)](#)
 
 
