@@ -1,3 +1,33 @@
+<!-- About Me Section -->
+<div align="center">
+
+<details>
+  <summary><strong>✨ About Me — Click to Expand!</strong></summary>
+  <br>
+
+  <p><strong>Hey there, I’m <span style="color:#007acc">Abdul Mukit</span> — a passionate self-taught developer, SEO wizard, and lifelong learner from Bangladesh!</strong></p>
+
+  <ul align="left">
+    <li><strong>Age:</strong> 16</li>
+    <li><strong>Class:</strong> 10 (SSC 2025 Candidate)</li>
+    <li><strong>Current Focus:</strong> Web Development, Blogging, Cybersecurity</li>
+    <li><strong>Freelance Skills:</strong> WordPress, SEO, Copywriting, Blogging</li>
+    <li><strong>Other Skills:</strong> Frontend Dev, Git/GitHub, Python, App Dev</li>
+    <li><strong>Mindset:</strong> CEO-Visionary | Inventor | Hacker | Practical Learner</li>
+    <li><strong>Languages:</strong> English, Bangla</li>
+  </ul>
+
+  <p><strong>My Mission:</strong> To build innovative solutions, create meaningful content, and make an impact that outlives trends.</p>
+
+  <p><strong>Fun Fact:</strong> I drink green tea while coding like it’s a ritual — balance between Zen & JavaScript.</p>
+
+  <p><strong>Let’s Connect & Collaborate!</strong> I’m always open to new ideas and collabs that help us grow together.</p>
+
+</details>
+
+</div>
+
+
 [![Zedeyx github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZedeyxOfficial&bg_color=010003&color=d3d1ff&line=8a24ff&point=ffffff&area=true&hide_border=true)](#)
 
 __
